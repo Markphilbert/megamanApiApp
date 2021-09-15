@@ -1,6 +1,6 @@
 # megamanApiApp
 
-An App built using a Mega Man Api
+An App built using a Mega Man Api. This app features a working searchbar which filters content.
 
 This Project was created with:
 Use of Fetch and API's
