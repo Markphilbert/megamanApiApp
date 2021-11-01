@@ -1,4 +1,4 @@
-# megamanApiApp
+# Megaman API App
 
 <h2>Megaman API App</h2>
 
