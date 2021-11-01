@@ -6,7 +6,8 @@
 
 An App built using a Mega Man Api. This app features use of fetch and a working searchbar which filters content.
 
-This project is hosted on Netlify,
+This project is hosted on Netlify
+
 Link: https://megaman-api-app.netlify.app/
 
 <h3>Description</h3>
