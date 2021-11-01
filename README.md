@@ -10,9 +10,7 @@ This project is hosted on Netlify. Link: https://megaman-api-app.netlify.app/
 
 <h3>Description</h3>
 
-This was created using Vue3 for the sole purpose of picking up and learning Vue. The further this app is created, the more complex I attempt to make it to further my learning.
-
-Currently only the "Home", "About" and "Contact" page have been worked on. The contact page needs a form to be complete.
+This app was created to teach myself both about fetching api's and to learn how to use SASS. It features a searchbar that filters through content and uses JavaScript to loop through fetched data and display the cards for each character.
 
 <h3>How It's Made:</h3>
 
