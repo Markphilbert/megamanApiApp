@@ -1,5 +1,6 @@
 # megamanApiApp
-<h2>ShoesOverflow</h2>
+
+<h2>Megaman API App</h2>
 
 <img src="https://user-images.githubusercontent.com/84154978/139719745-a6b8372d-0271-4972-baa7-3943aa6aec7e.gif" >
 
