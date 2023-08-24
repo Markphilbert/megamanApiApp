@@ -32,8 +32,7 @@ Through creating this project I learned about fetch, promises, async await and e
 
 <h3>Other Projects</h3>
 <ul>
+<li><a href="https://github.com/Markphilbert/threeJS_Portfolio">ThreeJS Portfolio Site</a></li>  
 <li><a href="https://github.com/Markphilbert/numinix">Numinix App</a></li>
-<li><a href="https://github.com/Markphilbert/HTML-Email">HTML Email Clone</a></li>
 <li><a href="https://github.com/Markphilbert/ShoesOverflow">ShoesOverflow</a></li>
-<li><a href="https://github.com/Markphilbert/bucketlist">Bucketlist CRUD App</a></li>
 </ul>
